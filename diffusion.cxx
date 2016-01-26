@@ -44,7 +44,7 @@ int main(){
   for(int i=1; i<=Na; i++)
   {
    for(int j=0; j<Nk; j++){
-    //hier swap
+ 
     
        step(u1, u0, dt, dx, D, N);
        
